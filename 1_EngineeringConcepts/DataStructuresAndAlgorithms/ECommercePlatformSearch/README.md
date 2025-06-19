@@ -1,5 +1,4 @@
-# Week 1 : Engineering Concepts - Data Structures And Algorithms
-***Skill No 2 : E-Commerce Platform Search***  
+## Week 1 : Engineering Concepts - Data Structures And Algorithms - Skill No 2 : E-Commerce Platform Search   
 **NOTE : Open the folder without changing the folder structure for the package name to work as expected, or you can rename the package if not.**
 
 

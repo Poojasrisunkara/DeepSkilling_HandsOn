@@ -1,8 +1,10 @@
 # Week 1 : Engineering Concepts - Data Structures And Algorithms
 ## Skill No 2 : E-Commerce Platform Search
-#### Please see the folder "Code" to access the java files. 
-** NOTE : Open the folder without changing the folder structure for the package name to work as expected, or you can rename the package if not. **
-#### Please see the folder named "Output" to see the screenshot of the output.
+Please see the folder "Code" to access the java files. 
+**NOTE : Open the folder without changing the folder structure for the package name to work as expected, or you can rename the package if not.**
+Please see the folder named "Output" to see the screenshot of the output.
+
+---
 
 ##  1. Understanding Asymptotic Notation
 
@@ -11,8 +13,6 @@ For search operations:
 - **Best case**: We find what we’re looking for right away. For example, the product we are looking for being there in the front aisle of a shop
 - **Average case**: We find it somewhere in the middle. 
 - **Worst case**: We find it at the end or not at all.
-
----
 
 ##  4. Analysis of Search Algorithms
 

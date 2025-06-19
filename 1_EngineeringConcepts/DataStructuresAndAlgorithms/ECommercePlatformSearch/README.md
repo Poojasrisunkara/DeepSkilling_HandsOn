@@ -1,8 +1,7 @@
 # Week 1 : Engineering Concepts - Data Structures And Algorithms
-## Skill No 2 : E-Commerce Platform Search
-Please see the folder "Code" to access the java files. 
+***Skill No 2 : E-Commerce Platform Search***
 **NOTE : Open the folder without changing the folder structure for the package name to work as expected, or you can rename the package if not.**
-Please see the folder named "Output" to see the screenshot of the output.
+
 
 ---
 

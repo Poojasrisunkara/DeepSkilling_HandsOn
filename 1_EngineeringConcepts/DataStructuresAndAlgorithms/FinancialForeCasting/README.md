@@ -1,7 +1,7 @@
-## Week 1 - Engineering Concepts : Data Structures and Algorithms
+### Week 1 - Engineering Concepts : Data Structures and Algorithms
+---
 ### Skill 7 : Financial Forecasting
 
----
 
 ## 1. Understanding Recursive Algorithms
 
